@@ -1,0 +1,71 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# ---- Entorno virtual ----
+.venv/
+venv/
+ENV/
+env/
+
+# ---- Base de datos ----
+*.db
+*.sqlite
+*.sqlite3
+retailnova.db
+
+# ---- ChromaDB (vector database local) ----
+chroma_db/
+.chroma/
+
+# ---- Archivos de configuración de Ollama ----
+.ollama/
+
+# ---- Archivos de entorno y secretos ----
+.env
+.env.local
+.env.*.local
+
+# ---- IDE y editores ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ---- Logs y archivos temporales ----
+*.log
+*.tmp
+*.temp
+*.out
+
+# ---- Archivos de datos generados ----
+*.csv
+*.xlsx
+*.xls
+!*.csv  # Si quieres mantener algunos CSV, ajusta esta línea
+
+# ---- Jupyter Notebooks ----
+.ipynb_checkpoints/
+*.ipynb
+
+# ---- Archivos de políticas (si no quieres subirlos) ----
+# politicas_empresa.txt  # Descomenta si no quieres subir el archivo
+
+# ---- Archivos de pruebas ----
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ---- Sistema ----
+Thumbs.db
+desktop.ini

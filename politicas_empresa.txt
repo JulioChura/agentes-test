@@ -1,0 +1,22 @@
+=== POLITICAS DE CADENA DE SUMINISTRO - RETAILNOVA GROUP ===
+
+1. POLITICA DE APROBACION DE ENVIOS
+   - Si el costo total del envio es MENOR a $1,000: APROBACION AUTOMATICA.
+   - Si el costo total es MAYOR o IGUAL a $1,000: REQUIERE AUTORIZACION DEL GERENTE.
+   - Si el costo supera los $5,000: REQUIERE APROBACION DEL DIRECTORIO.
+
+2. POLITICA DE PRIORIDAD DE PRODUCTOS
+   - Productos Categoria "A": Siempre usar envio RAPIDO (aunque cueste mas).
+   - Productos Categoria "B": Usar envio estandar (balance costo/tiempo).
+   - Productos Categoria "C": Usar envio mas BARATO disponible.
+
+3. POLITICA DE STOCK MINIMO
+   - Cada tienda debe mantener stock minimo para 7 dias de venta promedio.
+   - Si el stock baja a menos de 3 dias, se activa ALERTA ROJA.
+
+4. POLITICA DE PROVEEDORES
+   - El tiempo maximo de entrega de un proveedor es 5 dias habiles.
+   - Si un proveedor falla 3 entregas consecutivas, se busca alternativo.
+
+5. POLITICA DE DEVOLUCIONES
+   - Las devoluciones de productos danados deben procesarse en maximo 48 horas.
